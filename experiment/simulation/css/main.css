@@ -167,6 +167,10 @@ td{
     
     grid-area: area2;
 }
+.item7{
+    
+    grid-area: 7;
+}
 
 .item3{
     width: 100%;
@@ -463,3 +467,19 @@ input {
 /* @media screen and (max-width : 1330px){
     
 } */
+
+
+/* #turbine {
+    animation: rotate 5s linear infinite;
+    transform-origin: 465px 615px;  Adjust these values based on the image dimensions and position
+
+  } */
+/*   
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
